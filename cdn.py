@@ -35,7 +35,9 @@ def time_format(s):
     return time.mktime(time.strptime(a,r'%d %m %Y %H:%M:%S'))
 file_write(r'./config.ini',str(time.time()))
 email="xxxxxxxxxxx"
+#你的邮箱
 pswd="xxxxxxxxxxx"
+#密钥
 server=poplib.POP3_SSL(host="pop.qq.com",port=995)
 server.user(email)
 server.pass_(pswd)
