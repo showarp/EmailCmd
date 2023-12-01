@@ -10,15 +10,3 @@
 * 支持多种邮箱❌
 * 漂亮的gui❌
 * 以另一某种形式执行命令，不再允许执行cmd命令（不安全）❌
-# 黎煜亮DLLM
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-![dllm](https://ftp.bmp.ovh/imgs/2022/01/ce4ba57221c63f5c.jpg)
-
